@@ -184,7 +184,7 @@ function Hero() {
     <section className="hero-bg min-h-[620px] border-b border-[#2a2115]">
       <div className="container-page flex min-h-[620px] items-center">
         <div className="max-w-[560px] pt-20">
-          <p className="font-script gold text-[58px] mb-4 text-sm font-medium ">
+          <p className="font-script md:mt-0 mt-9 gold text-[58px] mb-4 text-sm font-medium ">
             Luxury Event Styling &
           </p>
 
