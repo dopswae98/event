@@ -96,7 +96,7 @@ export default function Navbar() {
                 href="tel:6090000000"
                 className="mt-3 flex items-center gap-2 border-t border-white/10 px-4 pt-4 text-sm font-bold text-[#c9973f]"
               >
-                <FaPhoneAlt size={14} /> (609) 582-3700
+                <FaPhoneAlt size={14} /> (609) 000-0000
               </a>
 
               <Link
