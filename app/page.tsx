@@ -123,7 +123,7 @@ function Header() {
 
         <div className="hidden items-center gap-6 lg:flex">
           <p className="gold flex items-center gap-2 text-sm font-bold">
-            <Phone size={15} /> (609) 582-3700
+            <Phone size={15} /> (609) 000-0000
           </p>
           <Link href="/contact" className="btn-outline px-5 py-3 text-xs font-semibold">
             BOOK A CONSULTATION
@@ -165,7 +165,7 @@ function Header() {
                 href="tel:6095823700"
                 className="mt-3 flex items-center gap-2 border-t border-white/10 px-4 pt-4 text-sm font-bold text-[#c9973f]"
               >
-                <Phone size={15} /> (609) 582-3700
+                <Phone size={15} /> (609) 000-0000
               </a>
 
               <Link href="/contact" className="btn-outline mt-3 px-5 py-3 text-xs font-semibold">
@@ -476,7 +476,7 @@ function Footer() {
           
           <div className="flex items-center gap-4">
             <Phone size={18} color={gold} />
-            <p>(609) 582-3700</p>
+            <p>(609) 000-0000</p>
           </div>
 
           <div className="flex items-center gap-4">
